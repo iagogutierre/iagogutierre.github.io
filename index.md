@@ -1,10 +1,16 @@
-## Welcome to GitHub Pages
+## Iago Gutierre
 
-You can use the [editor on GitHub](https://github.com/iagogutierre/iago.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Email: iago.msanto@gmail.com     
+Cell phone: +972 53-793-9451  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About me
+Brazilian and free software activist living in Israel. Linux user since 2009. Full stack developer focused on PHP and Wordpress. In recent years, learning about agile methodologies and DevOps practices. Also, DJ during the weekends.
 
-### Markdown
+<!---
+You can use the [editor on GitHub](https://github.com/iagogutierre/iago.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+--->
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
