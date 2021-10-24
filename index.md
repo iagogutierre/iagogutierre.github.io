@@ -8,8 +8,8 @@ Brazilian and free software activist living in Israel. Linux user since 2009. Fu
 
 ### Education 
  Instituto Federal Sul Rio Grandense - IFSUL   
- Computer Technician -  2016  
- University Graduate - Technology in Internet Systems - 2020
+ Computer Technician -  2015  
+ University Graduate - Technology in Internet Systems - 2021
  
 
 
